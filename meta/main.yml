@@ -15,8 +15,9 @@ galaxy_info:
         - 20.04
         - 22.04
 
-galaxy_tags:
-  - demo
-  - ec2
-  - ansible
+  galaxy_tags:
+    - demo
+    - ec2
+
+dependencies: []
 
