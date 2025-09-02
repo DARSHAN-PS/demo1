@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: myrole
+  role_name: demo1
   namespace: DARSHAN-PS
   author: DARSHAN-PS
   description: A simple test role for Ansible Galaxy
