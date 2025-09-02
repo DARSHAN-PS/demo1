@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: myrole
+  role_name: demo1
   author: DARSHAN-PS
   description: Demo role for Ansible Galaxy import
   license: MIT
